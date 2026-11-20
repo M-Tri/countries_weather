@@ -1,3 +1,21 @@
+## Project Structure
+
+```text
+├── src/
+│   ├── components/     # Reusable UI components
+│   ├── services/       # API calls, data fetching, and business logic helpers
+│   ├── styles/         # Additional stylesheets and theme rules
+│   ├── App.css         # Component/layout styles for App
+│   ├── App.jsx         # Root application component
+│   ├── index.css       # Global styles
+│   └── main.jsx        # Application entry point
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
+```
 ﻿
 # Country Info App
 
